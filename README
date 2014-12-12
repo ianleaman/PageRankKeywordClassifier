@@ -1,4 +1,4 @@
-This project explores the use of Google Page Rank as a means to generate key words from and input of simlar documents. 
+This project explores the use of Google Page Rank as a means to generate key words from an input of simlar documents. 
 
 It is a work in progress and was built to learn about Page Rank, not to create a better keyword classifier.
 
