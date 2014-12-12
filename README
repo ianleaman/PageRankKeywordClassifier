@@ -1,0 +1,13 @@
+This project explores the use of Google Page Rank as a means to generate key words from and input of simlar documents. 
+
+It is a work in progress and was built to learn about Page Rank, not to create a better keyword classifier.
+
+Currently the algorithm performs poorly compared to conventional keyword generation such as TF-IDF. Generally ranking stop words such as "the" or "it" highest.
+
+Some improvements:
+    - Expand to Ngrams or part of speach tags
+    - Add the ability to give command line input.
+
+To run on sample data:
+    - Install Numpy
+    - in terminal type "python run.py"
